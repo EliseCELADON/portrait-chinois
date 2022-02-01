@@ -1,0 +1,3 @@
+//var analogies = ["un sport", "une couleur", "un evenement", "une ville", "un livre", "une oeuvre d'art", "un objet" ];
+
+//var data = [{"analogie":"une peinture","valeuranalogies":" l’aquarelle","justify":"En effet, l’aquarelle est pour moi un moyen de m’exprimer, cette technique me correspond puisqu’elle demande une certaine spontanéité. Par ailleurs, elle est un moyen de lâcher prise, de m’évader. J’aime voir les pigments se déposer et colorer le papier","images":"images/Tache-aquarelle.png"},{}]

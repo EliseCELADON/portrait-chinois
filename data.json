@@ -1,0 +1,50 @@
+[
+    {
+        "analogie": "une peinture",
+        "valeuranalogies": " l’aquarelle",
+        "justify": "En effet, l’aquarelle est pour moi un moyen de m’exprimer, cette technique me correspond puisqu’elle demande une certaine spontanéité. Par ailleurs, elle est un moyen de lâcher prise, de m’évader. J’aime voir les pigments se déposer et colorer le papier",
+        "images": "<img src='images/Tache-aquarelle.png' class='photo-aquarelle'>"
+    },
+    {
+        "analogie": "un artiste",
+        "valeuranalogies": " Banksy",
+        "justify": "Pour moi, Bansky est un artiste qui utilise l’art avec génie et brio dans un but de dénoncer, critiquer les travers de ce monde dans un objectif de faire réagir. Notamment avec ses nombreux coups de maître : lorsque l’un de ses tableaux les plus célèbres s’est autodétruit ou encore lorsqu’il a vendu certaines de ses toiles dans les rues de New York pour un prix dérisoire par rapport à leurs estimations. Il a même poussé la provocation jusqu’à mettre en vente un tableau portant la seule inscription « I can’t believe you morons actually buy this shit ». Je pense qu’en se moquant ouvertement de l’esprit mercantile et passablement absurde du marché de l’art moderne Bansky invite le spectateur à se questionner et à s’interroger sur les fondamentaux de l’art .",
+        "images": "images/banksy.png",
+        "classe":"Banksy"
+    },
+    {
+        "analogie": "un sport",
+        "valeuranalogies": " l’équitation",
+        "justify": "Je pratique cette passion depuis l’âge de 5 ans. Ce  sport me permet un lâcher prise total. Il me donne le sentiment d’être libre, il m’apporte de l’évasion.L’équitation m’oblige à savoir observer le comportement du cheval et à dompter mes propres émotions négatives pour ne pas les lui transmettre. Cette passion est bénéfique pour moi puisque lorsque que je monte à cheval je mets mon stress quotidien de côté. De surcroît, il m’a permis de développer  une certaine persévérance, si jamais l’on chute il faut apprendre à se relever. Par ailleurs, c’est un sport qui a développé ma patience. Il faut aborder chaque étape de progression avec sérénité et pour cela il faut de l’expérience, c’est un sport qui démontre qu’il ne faut pas se précipiter.",
+        "images": "images/equitation.png",
+        "classe":"equitation"
+    },
+    {
+        "analogie": "un objet",
+        "valeuranalogies": " un livre",
+        "justify": "N’avez vous jamais rêvé de vivre plusieurs vies ? Moi oui. Lorsque je lis je peux laisser ma conscience et prendre celle d’une autre personne, d’un autre age, d’une autre culture. Lire me permet de m’évader, d’imaginer et même de développer une réflexion.",
+        "images": "images/livres.jpg",
+        "classe":"livres"
+    },
+    {
+        "analogie": "une pierre",
+        "valeuranalogies": " améthyste",
+        "justify": "En effet, j’ai choisi cette pierre car elle symbolise le bonheur, la sincérité. De plus elle est associée à l’apaisement de la nervosité, du stress, à la dissipation des émotions négatives comme l’angoisse . Le contact avec cette pierre favorise l’équilibre nerveux, procurant un sommeil paisible et une énergie positive.",
+        "images": "images/améthyste.png",
+        "classe":"améthyste"
+    },
+    {
+        "analogie": "une discipline",
+        "valeuranalogies": " l’art",
+        "justify": "Mais qu’est ce que l’art me direz vous ? L’art pour moi ce sont des œuvres qui ont pour but de toucher les sens et les émotions du spectateur, c’est un moyen de s’exprimer de communiquer, de faire passer des messages. Je pourrais dire que je suis une personne sensible à l’art mais pour moi chacun est sensible à un art, donc cette phrase serait un paradoxe avec ma façon de voir les choses",
+        "images": "images/art.jpg",
+        "classe":"art"
+    },
+    {
+        "analogie": "un type d’humour",
+        "valeuranalogies": " l’ autodérision",
+        "justify": "Ci joint une vidéo véridique de la créatrice de ce site web en plein labeur ! J’aime rire de tout, de rien et surtout de moi. Quoi de mieux pour rire que de rire de soi? En plus, il y a matière à rire sur ma personne...L’autodérision est quelque chose que je fais quotidiennement, autant pour me sortir d’une situation délicate que pour rester optimiste lorsqu’un problème survient.",
+        "images": "images/chat.mp4",
+        "classe":"chat"
+    }
+]
